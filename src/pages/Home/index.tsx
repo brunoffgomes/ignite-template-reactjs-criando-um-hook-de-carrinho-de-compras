@@ -13,6 +13,7 @@ interface Product {
   image: string;
 }
 
+
 interface ProductFormatted extends Product {
   priceFormatted: string;
 }
